@@ -1,0 +1,7 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Obsidian — 工作区状态常变，忽略可减少无意义 diff
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
